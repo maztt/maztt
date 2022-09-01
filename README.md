@@ -3,7 +3,7 @@
 <img align="right" alt="img" src="https://i.pinimg.com/originals/fe/0e/58/fe0e58e6c46996f8b55b1e49c492de0b.jpg" width="50%" height="auto" />
 
 <h1 align="right">Hey, how you doing?</h1>
-<p>Name is Júlio, but I think <strong>maztt</strong> also fits cool as my dev nickname.</p>
+<p align="right">Name is Júlio, but I think <strong>maztt</strong> also fits cool as my dev nickname.</p>
 <hr>
 
     🎓 Student at Federal University of Goiás – Business Administration //
@@ -30,7 +30,8 @@
   - NFL, NBA & Football;
   - A few animes and games;
   - EDM & Hip Hop;
- 
+  
+<br>
 <hr>
 <div align="right" style="display: inline_block"><br>
  <h3 align="right">I usually build stuff with:</h3>
