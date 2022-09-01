@@ -31,8 +31,8 @@
   - A few animes and games;
   - EDM & Hip Hop;
   
-<br>
 <hr>
+
 <div align="right" style="display: inline_block"><br>
  <h3 align="right">I usually build stuff with:</h3>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
