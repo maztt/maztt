@@ -10,7 +10,7 @@
     ⌨️ Currently learning Software/Web Development by my own – and that means using some help from friends and free content  //
     🧩 I'm a Post-Junior – do you know what does that mean? //
     🧠 I do think Coaching can change the way you think and conquer //
-    📅 Follow my daily #100DaysOfCode @ Twitter (link below) //
+    📅 Follow my daily #100DaysOfCode reports @ Twitter (link below) //
 
 
 
