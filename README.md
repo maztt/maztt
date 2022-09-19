@@ -8,7 +8,7 @@
 
     🎓 Student at Federal University of Goiás – Business Administration //
     ⌨️ Currently learning Software/Web Development by my own – and that means using some help from friends and free content  //
-    🧩 I'm a Post-Junior – do you know what does that mean? //
+    🧩 I'm a Post-Junior – and that has a strong meaning //
     🧠 I do think Coaching can change the way you think and conquer //
     📅 Follow my daily #100DaysOfCode reports @ Twitter (link below) //
 
@@ -24,7 +24,7 @@
 
 
 - 👨‍💻 Take a look at my [my personal page](https://maztt.github.io/personal-page/) [W.I.P]
-- 🤝 Also talk to me about:
+- 🤝 I also like to talk about:
   - Personal Development;
   - Astronomy;
   - NFL, NBA & Football;
