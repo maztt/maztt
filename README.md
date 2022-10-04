@@ -6,9 +6,9 @@
 <p align="right">Name is Júlio, but I think <strong>maztt</strong> also fits cool as my dev nickname.</p>
 <hr>
 
-    🎓 Student at Federal University of Goiás – Business Administration //
-    ⌨️ Currently learning Software/Web Development by my own – and that means using some help from friends and free content  //
-    🧩 I'm a Post-Junior – and that has a strong meaning //
+    🎓 Student at Federal University of Goiás – Business Administration and Management //
+    🎓 Student at Descomplica College – System Analysis and Development //
+    🧩 Post-Junior //
     🧠 I do think Coaching can change the way you think and conquer //
     📅 Follow my daily #100DaysOfCode reports @ Twitter (link below) //
 
@@ -35,9 +35,6 @@
 
 <div align="right" style="display: inline_block"><br>
  <h3 align="right">I usually build stuff with:</h3>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img align="center" alt="Py" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   </a>
