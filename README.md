@@ -28,13 +28,14 @@
   - Personal Development;
   - Astronomy;
   - NFL, NBA & Football;
-  - A few animes and games;
   - EDM & Hip Hop;
+  - Games and a few animes;
+
   
 <hr>
 
 <div align="right" style="display: inline_block"><br>
- <h3 align="right">I usually build stuff with:</h3>
+ <h3 align="right">Tech Stack I'm usually learning with:</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
   </a>
@@ -43,6 +44,9 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   </a>
 </div>
 
