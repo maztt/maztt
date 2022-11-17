@@ -1,92 +1,114 @@
-## maztt's space
+<img align="right" alt="Animated GIF" src="https://user-images.githubusercontent.com/92126792/202570002-e3057b21-c552-4d0e-9b83-24cd41e7740d.gif" width="395px" height="auto" />
 
-<img align="right" alt="img" src="https://i.pinimg.com/originals/fe/0e/58/fe0e58e6c46996f8b55b1e49c492de0b.jpg" width="50%" height="auto" />
+<h1 align="left">Hey, how you doing?</h1>
+<p align="center">Name is Júlio, but I think <strong>maztt</strong> is also a good fit for a dev.</p>
 
-<h1 align="right">Hey, how you doing?</h1>
-<p align="right">Name is Júlio, but I think <strong>maztt</strong> also fits cool as my dev nickname.</p>
+<sub><b>Elevator Pitch</b> — because you don't have enough time</sub>
+
+It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
+    
+Problems, people and processes move me. They make me seek to be 1% better everyday.
+
+I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
+
+If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
+
+
 <hr>
 
-    🎓 Student at Federal University of Goiás – Business Administration and Management //
-    🎓 Student at Descomplica College – System Analysis and Development //
-    🧩 Post-Junior //
-    🧠 I do think Coaching can change the way you think and conquer //
-    📅 Follow my daily #100DaysOfCode reports @ Twitter (link below) //
+<sub><b>Tech Stack</b> — the ones I'm usually learning with:</sub>
+
+<div align="left">
+
+![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
+![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%6DA55F)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
+![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23C21325)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
+![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%231572B6)
+![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
+![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%23121011)
+    
+</div>
 
 
-
-<br>
-
-
-- At the moment, my <strong>[Coding Campaign](https://maztt.github.io/coding-campaign/)</strong> is being played with Saitama and Goku.
-
-<br>
-
-
-
-- 👨‍💻 Take a look at my [my personal page](https://maztt.github.io/personal-page/) [W.I.P]
-- 🤝 I also like to talk about:
-  - Personal Development;
-  - Astronomy;
-  - NFL, NBA & Football;
-  - EDM & Hip Hop;
-  - Games and a few animes;
-
-  
 <hr>
+    
+<sub><b>Positions</b> — because that's what I've been doing</sub>
 
-<div align="right" style="display: inline_block"><br>
- <h3 align="right">Tech Stack I'm usually learning with:</h3>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  </a>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+    &emsp;&emsp;    <sup><b>Descomplica College</b> — System Analysis and Development Student</sup>
 </div>
 
-<br>
-<br>
-<br>
-
- <div style="display: block" align="center">
-  <a href="https://github.com/maztt">
-  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&layout=compact&langs_count=6&theme=codeSTACKr"/>  
-  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
-</div>
- 
-
- 
-  
-  
- 
- 
- 
-  
- <br>
- 
- ## places where you can find me
- 
 <div>
+    &emsp;&emsp;    <sup><b>Federal University of Goiás</b> — Business Administration and Management Student</sup>
+</div>
+
+<div>
+    &emsp;&emsp;    <sup><b>SouJunior</b> — Volunteer at Business Team</sup>
+</div>
+
+
+
+<hr>
+
+<sub><b>Achievements</b> — because they tell a story</sub>
+
+
+<div align="center">
+  <img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="Lvl 3 Hacktoberfest" width="170px"/>
+ <img src="https://image-proxy-cdn.teamtreehouse.com/21c3880313cbaa54b9eea93b1a131208aefe2778/68747470733a2f2f643968687267346d6e767a6f772e636c6f756466726f6e742e6e65742f6a6f696e2e7465616d74726565686f7573652e636f6d2f3130302d646179732d6f662d636f64652f38633631643566642d313030646179736f66636f64652d626164676566696e616c732d30355f30376d30376d3030303030303030303030303030312e706e67" alt="Lvl 3 Hacktoberfest" width="170px"/>
+</div>
+
+<hr>
+
+<sub><b>Stats</b> — for people who like metrics</sub>
+
+ <div align="center">
+  <a href="https://github.com/maztt">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&layout=compact&langs_count=6&theme=codeSTACKr"/>  
+  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
+      
+  ![Snake animation](https://github.com/maztt/maztt/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+
+
+</div>
+
+<hr>
+
+<sub><b>Links that matter</b> — because GitHub isn't the only source</sub>
+
+
+<div>
+   &emsp;&emsp;
+  <a href="https://maztt.github.io/personal-page/" target="_blank">
+   <img src="https://img.shields.io/badge/-Portfolio-%23323330?style=for-the-badge&logo=portfolio&logoColor=white">
+  </a>
+  <a href="#" title="Anytime soon" target="_blank">
+   <img src="https://img.shields.io/badge/-Blog-%23323330?style=for-the-badge&logo=blog&logoColor=white">
+  </a>
+</div>
+<br>
+<div>
+   &emsp;&emsp; 
   <a href="https://twitter.com/_maztt" target="_blank">
-   <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
   <a href="https://instagram.com/juliomaztt" target="_blank">
-   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href = "mailto:juliomazotti@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/juliomasson" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
- 
-  ![Snake animation](https://github.com/maztt/maztt/blob/output/github-contribution-grid-snake.svg)
-
 </div>
+
+<hr>
