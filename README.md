@@ -3,16 +3,17 @@
 <h1 align="left">Hey, how you doing?</h1>
 <p align="center">Name is Júlio, but I think <strong>maztt</strong> is also a good fit for a dev.</p>
 
+<br>
+
 <sub><b>Elevator Pitch</b> — because you don't have enough time</sub>
 
-It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
+&ensp;It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
     
-Problems, people and processes move me. They make me seek to be 1% better everyday.
+&ensp;Problems, people and processes move me. They make me seek to be 1% better everyday.
 
-I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
+&ensp;I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
 
-If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
-
+&ensp;If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
 
 <hr>
 
@@ -26,8 +27,8 @@ If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%6DA55F)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23C21325)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%231572B6)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
 ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%23121011)
@@ -39,7 +40,7 @@ If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM
     
 <sub><b>Positions</b> — because that's what I've been doing</sub>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center">
+<div>
     &emsp;&emsp;    <sup><b>Descomplica College</b> — System Analysis and Development Student</sup>
 </div>
 
