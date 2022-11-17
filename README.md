@@ -1,4 +1,4 @@
-<img align="right" alt="Animated GIF" src="https://user-images.githubusercontent.com/92126792/202570002-e3057b21-c552-4d0e-9b83-24cd41e7740d.gif" width="395px" height="auto" />
+<img align="right" alt="Animated GIF" src="https://user-images.githubusercontent.com/92126792/202570002-e3057b21-c552-4d0e-9b83-24cd41e7740d.gif" width="390px" height="auto" />
 
 <h1 align="left">Hey, how you doing?</h1>
 <p align="center">Name is Júlio, but I think <strong>maztt</strong> is also a good fit for a dev.</p>
