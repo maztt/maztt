@@ -7,13 +7,13 @@
 
 <sub><b>Elevator Pitch</b> — because you don't have enough time</sub>
 
-&ensp;It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
+&emsp;It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
     
-&ensp;Problems, people and processes move me. They make me seek to be 1% better everyday.
+&emsp;Problems, people and processes move me. They make me seek to be 1% better everyday.
 
-&ensp;I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
+&emsp;I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
 
-&ensp;If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
+&emsp;If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
 
 <hr>
 
