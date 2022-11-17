@@ -15,6 +15,8 @@
 
 &emsp;If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
 
+<br>
+
 <hr>
 
 <sub><b>Tech Stack</b> — the ones I'm usually learning with:</sub>
