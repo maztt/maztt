@@ -1,17 +1,17 @@
 <img align="right" alt="Animated GIF" src="https://user-images.githubusercontent.com/92126792/202570002-e3057b21-c552-4d0e-9b83-24cd41e7740d.gif" width="390px" height="auto" />
 
 <h1 align="left">Hey, how you doing?</h1>
-<p align="center">Name is Júlio, but I think <strong>maztt</strong> is also a good fit for a dev.</p>
+<p align="center">Name is Júlio, but I think <strong>maztt</strong> is a good fit for a dev.</p>
 
 <br>
 
 <sub><b>Elevator Pitch</b> — because you don't have enough time</sub>
 
-&emsp;It was May 1st, 2022 when I made the decision of fully diving into tech. Self awareness brought me all the way through and been making things more clear since then.
+&emsp;On May 1st, 2022 I made the decision of fully diving into tech. Self awareness contributed to it and has been making things more clear and fun since then.
     
 &emsp;Problems, people and processes move me. They make me seek to be 1% better everyday.
 
-&emsp;I'm an extreme enthusiast for personal development by which lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
+&emsp;I'm an enthusiast for personal development and the lifestyle drives me on the daily basis. If you want to change your mind about Coaching, we can chat.
 
 &emsp;If you are here for a friend, I also love talking about Astronomy. Hip Hop & EDM music vibes me hard and I enjoy talking about football and learning more about NBA and NFL.
 
