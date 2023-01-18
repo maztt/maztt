@@ -54,6 +54,9 @@
     &emsp;&emsp;    <sup><b>SouJunior</b> — Volunteer at Business Team</sup>
 </div>
 
+<div>
+    &emsp;&emsp;    <sup><b>Project: Pet Journal</b> — Back End Developer</sup>
+</div>
 
 
 <hr>
