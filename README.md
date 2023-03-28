@@ -43,7 +43,7 @@
 </div>
 
 <div>
-    &emsp;&emsp;    <sup><b>Project: Pet Journal</b> — Back End Developer</sup>
+    &emsp;&emsp;    <sup><b>Pet Journal</b> — Volunteer Back End Developer</sup>
 </div>
 
 
