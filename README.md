@@ -8,16 +8,18 @@
 
 <sub><b>Tech Stack</b> — the ones I'm usually learning with:</sub>
 
-<div align="left">
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%6DA55F)
+    <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
 ![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23C21325)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
+    <br>
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%231572B6)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%6DA55F)
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
@@ -63,10 +65,10 @@
 
  <div align="center">
   <a href="https://github.com/maztt">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&layout=compact&langs_count=6&theme=codeSTACKr"/>  
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&theme=dark&layout=compact&langs_count=6"/>  
   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
-      
+
   ![Snake animation](https://github.com/maztt/maztt/blob/output/github-contribution-grid-snake.svg)
 </div>
 
