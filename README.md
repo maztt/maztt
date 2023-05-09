@@ -44,11 +44,6 @@
     &emsp;&emsp;    <sup><b>SouJunior</b> — Volunteer at Business Team</sup>
 </div>
 
-<div>
-    &emsp;&emsp;    <sup><b>Pet Journal</b> — Volunteer Back End Developer</sup>
-</div>
-
-
 <hr>
 
 <sub><b>Achievements</b> — because they tell a story</sub>
