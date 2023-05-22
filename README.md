@@ -60,10 +60,16 @@
 
  <div align="center">
   <a href="https://github.com/maztt">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&theme=dark&layout=compact&langs_count=6"/>  
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&theme=github_dark&layout=compact&langs_count=6" />  
   <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
-
+  <img alt="GitHub Details" heigth="430px" width="48.8%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maztt&theme=dark" />
+      
+  <div style="display: flex">
+     <img height="20px" src="https://www.codewars.com/users/maztt/badges/micro" width="160">
+     <img height="20px" src="https://komarev.com/ghpvc/?username=maztt&color=red" alt="maztt">   
+  </div>
+      
   ![Snake animation](https://github.com/maztt/maztt/blob/output/github-contribution-grid-snake.svg)
 </div>
 
