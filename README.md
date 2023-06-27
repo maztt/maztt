@@ -19,6 +19,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23C21325)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
+![NestJS](https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=%23C21345)
     <br>
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%231572B6)
 ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%6DA55F)
