@@ -8,26 +8,41 @@
 
 <sub><b>Tech Stack</b> — the ones I'm usually learning with:</sub>
 
-<div align="center">
+```javascript
 
-![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)
-![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=%6DA55F)
-    <br>
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)
-![Angular](https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=%23C21325)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23563D7C)
-![NestJS](https://img.shields.io/badge/nestjs-%23323330.svg?style=for-the-badge&logo=nestjs&logoColor=%23C21345)
-    <br>
-![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=%231572B6)
-![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=%6DA55F)
-![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=%23F05033)
-![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=%23121011)
-    
-</div>
+@LifelongLearner()
+@Injectable()
+export class Developer implements FullStack {
+    skills (tech?: any): Technologies {
+        return {
+            "Front-end": {
+                "HTML5":      [],
+                "CSS3":       ["Tailwind", "Bootstrap"],
+                "JavaScript": ["React", "Angular"],
+                "TypeScript": []
+            },
+            "Back-end": {
+                "Node.js":    ["Nest.js"],
+                "APIs":       ["REST"],
+                "Database":   ["MySQL", "PostgreSQL", "MongoDB"],
+                "ORMs":       ["Prisma"]
+            },
+            "Development Methodologies": [
+                "Scrumban",
+                "GitFlow",
+                "Clean Architecture",
+                "MVC Architecture",
+                "Conventional Commits",
+                "Atomic Commits"
+            ],
+            "Cloud Computing": {}
+        }
+    }
+}
 
+
+const maztt: Developer = new Developer();
+```
 
 <hr>
     
