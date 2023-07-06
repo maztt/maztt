@@ -25,7 +25,8 @@ export class Developer implements FullStack {
                 "Node.js":    ["Nest.js"],
                 "APIs":       ["REST"],
                 "Database":   ["MySQL", "PostgreSQL", "MongoDB"],
-                "ORMs":       ["Prisma"]
+                "ORMs":       ["Prisma", "TypeORM"],
+                "Testing":    ["Jest"]
             },
             "Development Methodologies": [
                 "Scrumban",
