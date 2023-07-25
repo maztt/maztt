@@ -57,10 +57,6 @@ const maztt: Developer = new Developer();
     &emsp;&emsp;    <sup><b>Federal University of Goiás</b> — Business Administration and Management Student</sup>
 </div>
 
-<div>
-    &emsp;&emsp;    <sup><b>SouJunior</b> — Volunteer at Business Team</sup>
-</div>
-
 <hr>
 
 <sub><b>Achievements</b> — because they tell a story</sub>
@@ -76,40 +72,32 @@ const maztt: Developer = new Developer();
 <sub><b>Stats</b> — for people who like metrics</sub>
 
  <div align="center">
-  <a href="https://github.com/maztt">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&theme=dark&layout=compact&langs_count=6" />  
-  <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
-  <img alt="GitHub Details" heigth="430px" width="48.8%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maztt&theme=dark" />
-      
+    <div>
+        <img width="495rem" src="https://wakatime.com/share/@maztt/7709c496-f191-4362-9d8e-9fca8e34205e.svg" />
+    </div>
+ <div>
+      <img height="110em" src="https://github-readme-stats.vercel.app/api?username=maztt&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+      <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maztt&theme=dark&layout=compact&langs_count=6" />  
+      <img height="110em" src="https://github-readme-streak-stats.herokuapp.com/?user=maztt&theme=dark" alt="maztt" />
+      <img alt="GitHub Details" heigth="430px" width="495rem" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maztt&theme=dark" />
+  </div>
   <div style="display: flex, font-size: 5px;">
-     <img height="20px" src="https://komarev.com/ghpvc/?username=maztt" alt="maztt-profile-views">
-     <img height="20px" src="https://wakatime.com/badge/user/a7cd6891-771c-4533-94ee-d48ab2544ed1.svg?style=for-the-badge" alt="maztt-wakatime">
+     <img height="25px" src="https://komarev.com/ghpvc/?username=maztt&color=912A1F&style=for-the-badge" alt="maztt-profile-views">
+     <img height="25px" src="https://www.codewars.com/users/maztt/badges/micro" width="160">
   </div> 
-     <img height="20px" src="https://www.codewars.com/users/maztt/badges/micro" width="160">
-  
-
-
-      
-
-</div>
-
-
-
 </div>
 
 <hr>
 
 <sub><b>Links that matter</b> — because GitHub isn't the only source</sub>
 
-
 <div>
    &emsp;&emsp;
   <a href="https://maztt.github.io/personal-page/" target="_blank">
-   <img src="https://img.shields.io/badge/-Portfolio-%23323330?style=for-the-badge&logo=portfolio&logoColor=white">
+   <img src="https://img.shields.io/badge/-Portfolio-%23323330?style=for-the-badge&logo=aboutdotme&logoColor=white">
   </a>
   <a href="#" title="Anytime soon" target="_blank">
-   <img src="https://img.shields.io/badge/-Blog-%23323330?style=for-the-badge&logo=blog&logoColor=white">
+   <img src="https://img.shields.io/badge/-Blog-%23323330?style=for-the-badge&logo=storyblok&logoColor=white">
   </a>
 </div>
 <br>
