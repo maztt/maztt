@@ -82,8 +82,8 @@ const maztt: Developer = new Developer();
       <img alt="GitHub Details" heigth="430px" width="495rem" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maztt&theme=dark" />
   </div>
   <div style="display: flex, font-size: 5px;">
-     <img height="25px" src="https://komarev.com/ghpvc/?username=maztt&color=912A1F&style=for-the-badge" alt="maztt-profile-views">
-     <img height="25px" src="https://www.codewars.com/users/maztt/badges/micro" width="160">
+     <img height="20px" src="https://komarev.com/ghpvc/?username=maztt&color=912A1F&style=for-the-badge" alt="maztt-profile-views">
+     <img height="20px" src="https://www.codewars.com/users/maztt/badges/micro" width="160">
   </div> 
 </div>
 
