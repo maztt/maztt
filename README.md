@@ -10,16 +10,16 @@
 
 ```javascript
 
-@LifelongLearner()
 @Injectable()
+@LifelongLearner()
 export class Developer implements FullStack {
     skills (tech?: any): Technologies {
         return {
             "Front-end": {
-                "HTML5":      [],
+                "HTML5":      ["Semantic"],
                 "CSS3":       ["Tailwind", "Bootstrap"],
-                "JavaScript": ["React", "Angular"],
-                "TypeScript": []
+                "JavaScript": [...libs],
+                "TypeScript": ["React", "Angular"]
             },
             "Back-end": {
                 "Node.js":    ["Nest.js"],
@@ -27,22 +27,13 @@ export class Developer implements FullStack {
                 "Database":   ["MySQL", "PostgreSQL", "MongoDB"],
                 "ORMs":       ["Prisma", "TypeORM"],
                 "Testing":    ["Jest"]
-            },
-            "Development Methodologies": [
-                "Scrumban",
-                "GitFlow",
-                "Clean Architecture",
-                "MVC Architecture",
-                "Conventional Commits",
-                "Atomic Commits"
-            ],
-            "Cloud Computing": {}
+            }
         }
     }
 }
 
 
-const maztt: Developer = new Developer();
+const maztt: Developer = new Developer()
 ```
 
 <hr>
@@ -59,7 +50,7 @@ const maztt: Developer = new Developer();
 
 <hr>
 
-<sub><b>Achievements</b> — because they tell a story</sub>
+<sub><b>Badges</b> — they tell a story</sub>
 
 
 <div align="center">
@@ -89,7 +80,7 @@ const maztt: Developer = new Developer();
 
 <hr>
 
-<sub><b>Links that matter</b> — because GitHub isn't the only source</sub>
+<sub><b>Links that matter</b> — to get to know me better</sub>
 
 <div>
    &emsp;&emsp;
