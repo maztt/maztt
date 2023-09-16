@@ -87,7 +87,7 @@ const maztt: Developer = new Developer()
   <a href="https://maztt.github.io/personal-page/" target="_blank">
    <img src="https://img.shields.io/badge/-Portfolio-%23323330?style=for-the-badge&logo=aboutdotme&logoColor=white">
   </a>
-  <a href="#" title="Anytime soon" target="_blank">
+  <a href="https://dev.to/asgard_dev" title="Writing about my experiences, thoughts and insights" target="_blank">
    <img src="https://img.shields.io/badge/-Blog-%23323330?style=for-the-badge&logo=storyblok&logoColor=white">
   </a>
 </div>
