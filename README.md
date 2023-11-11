@@ -30,8 +30,8 @@
 <table align="center">
   <tr>
     <td valign="center" align="center" width="200px"><img src="https://assets.holopin.io/hf2023levels/level1-red-helmet-0-0.webp" alt="Lvl 1 Hacktoberfest" width="140px"/></td>
-    <td valign="center"><img src="https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.io%2FeyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDhkOHRrZnAwMDMyMDlqbmtxZTF3dzVhIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0%3D&w=1920&q=75" alt="Lvl 3 Hacktoberfest" width="170px"/></td>
-    <td valign="center"><img src="https://image-proxy-cdn.teamtreehouse.com/21c3880313cbaa54b9eea93b1a131208aefe2778/68747470733a2f2f643968687267346d6e767a6f772e636c6f756466726f6e742e6e65742f6a6f696e2e7465616d74726565686f7573652e636f6d2f3130302d646179732d6f662d636f64652f38633631643566642d313030646179736f66636f64652d626164676566696e616c732d30355f30376d30376d3030303030303030303030303030312e706e67" alt="Lvl 3 Hacktoberfest" width="170px"/></td>
+    <td valign="center"><img src="https://github.com/maztt/maztt/assets/92126792/8aa945eb-395c-4042-b644-6e91ea28256c" alt="Lvl 3 Hacktoberfest" width="170px"/></td>
+    <td valign="center"><img src="https://image-proxy-cdn.teamtreehouse.com/21c3880313cbaa54b9eea93b1a131208aefe2778/68747470733a2f2f643968687267346d6e767a6f772e636c6f756466726f6e742e6e65742f6a6f696e2e7465616d74726565686f7573652e636f6d2f3130302d646179732d6f662d636f64652f38633631643566642d313030646179736f66636f64652d626164676566696e616c732d30355f30376d30376d3030303030303030303030303030312e706e67" alt="100 Days Of Code" width="170px"/></td>
   </tr>
 </table>
 
