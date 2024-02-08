@@ -8,22 +8,6 @@
 <br>
 
 <hr>
-    
-<sub><b>Positions</b>
-
-<div>
-    &emsp;&emsp;    <sup><b>Invent Software</b> — Software Development Intern</sup>
-</div>
-
-<div>
-    &emsp;&emsp;    <sup><b>Descomplica College</b> — System Analysis and Development Student</sup>
-</div>
-
-<div>
-    &emsp;&emsp;    <sup><b>Federal University of Goiás</b> — Business Administration and Management Student</sup>
-</div>
-
-<hr>
 
 <sub><b>Badges</b>
 
